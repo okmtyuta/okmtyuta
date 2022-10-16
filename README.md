@@ -10,6 +10,7 @@
   - Python, C#, Rust (2 years)
   - Django, React (2 years)
   - Linux (CentOS), NGINX, MariaDB (1 year)
+  - Docker, Figma, Storybook, Swift (Recently studying)
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
