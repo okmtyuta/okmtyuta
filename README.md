@@ -13,7 +13,7 @@
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
-  - [LinkedIn](www.linkedin.com/in/okmtyuta)
+  - [LinkedIn](https://linkedin.com/in/okmtyuta)
 - Job Experiences
   - Rakuten Group, Inc. (August 2022, Application Engineer, Internship)
   - Net Protections, Inc. (October 2022 - Current, Application Engineer, Internship)
