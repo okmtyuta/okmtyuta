@@ -1,4 +1,7 @@
 # OKAMOTO, Yuta / 岡本優太 / okmtyuta
+<div style="text-align: center;">
+    <img alt="okmtyuta icon" src="public/global_okmtyuta.png" width="300">
+</div>
 
 - Web Engineer / Web Designer
 - From Kumamoto, Japan
