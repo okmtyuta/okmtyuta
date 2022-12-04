@@ -12,8 +12,8 @@
   - HTML & CSS, JavaScript (3 years)
   - Python, C#, Rust (2 years)
   - Django, React (2 years)
-  - Linux (CentOS), NGINX, MariaDB (1 year)
-  - Docker, Figma, Storybook, Swift (Recently studying)
+  - Linux (CentOS, Ubuntu), NGINX, MariaDB (1 year)
+  - Node.js, NestJS, Docker, Figma, Storybook, Swift (Recently studying)
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
@@ -21,3 +21,6 @@
 - Job Experiences
   - Rakuten Group, Inc. (August 2022, Application Engineer, Internship)
   - Net Protections, Inc. (October 2022 - Current, Application Engineer, Internship)
+  - Freelance
+    - Create mobile EC app with Swift & Firebase
+    - Create Web app with React
