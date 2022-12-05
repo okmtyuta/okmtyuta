@@ -1,4 +1,4 @@
-OKAMOTO, Yuta / 岡本優太 / okmtyuta
+# OKAMOTO, Yuta / 岡本優太 / okmtyuta
 
 - Web Engineer / Web Designer
 - From Kumamoto, Japan
