@@ -4,7 +4,7 @@
     <img alt="okmtyuta icon" src="assets/global_okmtyuta.png" width="300">
 </p>
 <p align="center">
-    My favorite of all the paintings I've done so far.
+    My favorite painting
 </p>
 
 ## Profile
