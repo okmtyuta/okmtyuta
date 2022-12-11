@@ -36,6 +36,8 @@
 
 You can contact me via DM on [Twitter](https://twitter.com/okmtyuta) or Email: okmtyuta[at]gmail.com.
 
+Make sure to follow me before you try to send DMs on Twitter, because I can receive DMs only from following user.
+
 ## Likes
 
 Illustrating, Design, Photograph, Cooking, Manga, Anime, Programming, Gaming, Mathematics, ...; Like anything related to 'mono-dukuri' which mean 'craftsmanship' in Japanese.
