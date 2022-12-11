@@ -35,4 +35,4 @@
 </p>
 
 ## Footnote
-- If you would like to know more about me, you can check okmtyuta in some social service because almost all of my accounts is created with username 'okmtyuta.'
+- If you would like to know more about me, you can check '@okmtyuta' in some social service because almost all of my accounts is created with username 'okmtyuta.'
