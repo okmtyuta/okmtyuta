@@ -34,7 +34,7 @@
 
 ## Contact
 
-You can contact me via DM on [Twitter](https://twitter.com/okmtyuta) or Email: okmtyuta[at]gmail.com (recommended).
+You can contact me via DM on [Twitter](https://twitter.com/okmtyuta) or by mailing to okmtyuta[at]gmail.com (recommended).
 
 Make sure to follow me before you try to send DMs on Twitter, because I can receive DMs only from following user.
 
