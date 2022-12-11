@@ -1,6 +1,6 @@
 # OKAMOTO, Yuta / 岡本優太 / @okmtyuta
 
-## As a engineer
+## As an engineer
 - Engineer / Designer
 - From Kumamoto, Japan
 - Undergraduate student of The University of Tokyo
