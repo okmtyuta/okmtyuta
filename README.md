@@ -37,6 +37,6 @@
 
 - Illustrating, Design, Photograph, Cooking, Manga, Anime, Programming, Gaming, Mathematics, ...; Like anything related to 'mono-dukuri' which mean 'craftsmanship' in Japanese.
 
-## Footnote
+## Appendix
 
-- If you would like to know more about me, you can check '@okmtyuta' in some social service because almost all of my accounts is created with username 'okmtyuta.'
+- If you would like to know more about me, you can check [okmtyuta repository](https://github.com/okmtyuta/okmtyuta) which contain more information of mine, or search '@okmtyuta' in some social service because almost all of my accounts is created with username 'okmtyuta.' 
