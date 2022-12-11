@@ -1,16 +1,16 @@
-# OKAMOTO, Yuta / 岡本優太 / okmtyuta
+# OKAMOTO, Yuta / 岡本優太 / @okmtyuta
 
-- Web Engineer / Web Designer
+- Engineer / Designer
 - From Kumamoto, Japan
 - Undergraduate student of The University of Tokyo
   - Department of Mathematics, School of Science
 - Major in Mathematics / Computer Science
 - Skill Experiences
-  - HTML & CSS, JavaScript (3 years)
-  - Python, C#, Rust (2 years)
-  - Django, React (2 years)
-  - Linux (CentOS, Ubuntu), NGINX, MariaDB (1 year)
-  - Node.js, NestJS, Docker, Figma, Storybook, Swift (Recently studying)
+  - HTML & CSS, JavaScript 
+  - Python, TypeScript, Node.js, Rust
+  - Django, NestJS, Actix-web, React, Next, Dioxus
+  - Linux (CentOS, Ubuntu), Nginx, PosgreSQL
+  - Figma, Storybook, Swift 
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
