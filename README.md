@@ -1,17 +1,25 @@
 # OKAMOTO, Yuta / 岡本優太 / @okmtyuta
 
+<p align="center">
+    <img alt="okmtyuta icon" src="assets/global_okmtyuta.png" width="300">
+</p>
+<p align="center">
+    My favorite of all the paintings I've done so far.
+</p>
+
 ## Profile
+
 - Engineer / Designer
 - From Kumamoto, Japan
 - Undergraduate student of The University of Tokyo
   - Department of Mathematics, School of Science
 - Major in Mathematics / Computer Science
 - Skill Experiences
-  - HTML & CSS, JavaScript 
+  - HTML & CSS, JavaScript
   - Python, TypeScript, Node.js, Rust
   - Django, NestJS, Actix-web, React, Next, Dioxus
   - Linux (CentOS, Ubuntu), Nginx, PosgreSQL
-  - Figma, Storybook, Swift 
+  - Figma, Storybook, Swift
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
@@ -26,13 +34,9 @@
     - Create Web app with React
 
 ## Likes
+
 - Illustrating, Design, Photograph, Cooking, Manga, Anime, Programming, Gaming, Mathematics, ...; Like anything related to 'mono-dukuri' which mean 'craftsmanship' in Japanese.
-<p align="center">
-    <img alt="okmtyuta icon" src="assets/global_okmtyuta.png" width="300">
-</p>
-<p align="center">
-    My favorite of all the paintings I've done so far.
-</p>
 
 ## Footnote
+
 - If you would like to know more about me, you can check '@okmtyuta' in some social service because almost all of my accounts is created with username 'okmtyuta.'
