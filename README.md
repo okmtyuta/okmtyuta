@@ -1,6 +1,6 @@
 # OKAMOTO, Yuta / 岡本優太 / @okmtyuta
 
-## As an engineer
+## Profile
 - Engineer / Designer
 - From Kumamoto, Japan
 - Undergraduate student of The University of Tokyo
@@ -24,6 +24,9 @@
   - Freelance
     - Create mobile EC app with Swift & Firebase
     - Create Web app with React
+
+## Likes
+- Illustrating, Design, Photograph, Cooking, Manga, Anime, Programming, Gaming, Mathematics, ...; Like anything related to 'mono-dukuri' which mean 'craftsmanship' in Japanese.
 
 ## Footnote
 - If you would like to know more about me, you can check okmtyuta in some social service because almost all of my accounts is created with username 'okmtyuta.'
