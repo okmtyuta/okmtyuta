@@ -29,6 +29,8 @@
 - Illustrating, Design, Photograph, Cooking, Manga, Anime, Programming, Gaming, Mathematics, ...; Like anything related to 'mono-dukuri' which mean 'craftsmanship' in Japanese.
 <p align="center">
     <img alt="okmtyuta icon" src="assets/global_okmtyuta.png" width="300">
+</p>
+<p align="center">
     My favorite of all the paintings I've done so far.
 </p>
 
