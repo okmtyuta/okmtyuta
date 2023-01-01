@@ -24,7 +24,7 @@
   - [GitHub](https://github.com/okmtyuta)
   - [LinkedIn](https://linkedin.com/in/okmtyuta)
   - [CodeSandbox](https://codesandbox.io/u/okmtyuta)
-  - [~~Home Page~~](https://okmtyuta.jp)
+  - [Home Page](https://design.okmtyuta.jp)
 - Job Experiences
   - Rakuten Group, Inc. (August 2022, Application Engineer, Internship)
   - Net Protections, Inc. (October 2022 - Current, Application Engineer, Internship)
