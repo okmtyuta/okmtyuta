@@ -15,19 +15,20 @@
 - Major in Mathematics / Computer Science
 - Skill Experiences
   - HTML & CSS, JavaScript
-  - Python, TypeScript, Node.js, Rust
+  - Python, TypeScript, Node.js, Rust, Go
   - Django, NestJS, Actix-web, React, Next, Dioxus
-  - Linux (CentOS, Ubuntu), Nginx, PosgreSQL
+  - Linux (CentOS, Ubuntu), Nginx, PosgreSQL, AWS (EC2, Amplify, Cognito)
   - Figma, Storybook, Swift
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
   - [LinkedIn](https://linkedin.com/in/okmtyuta)
   - [CodeSandbox](https://codesandbox.io/u/okmtyuta)
-  - [Home Page](https://design.okmtyuta.jp)
+  - ~~[Home Page](https://design.okmtyuta.jp)~~
 - Job Experiences
   - Rakuten Group, Inc. (August 2022, Application Engineer, Internship)
-  - Net Protections, Inc. (October 2022 - Current, Application Engineer, Internship)
+  - Net Protections, Inc. (October 2022 - April 2023, Application Engineer, Internship)
+  - PKSHA Technology, Inc. (March 2022 - April 2023, Application Engineer, Internship)
   - Freelance
     - Create mobile EC app with Swift & Firebase
     - Create Web app with React
