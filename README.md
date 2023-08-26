@@ -16,6 +16,7 @@
 - Links
   - [Twitter](https://twitter.com/okmtyuta)
   - [GitHub](https://github.com/okmtyuta)
+  - [NPM](https://www.npmjs.com/~okmtyuta)
   - [LinkedIn](https://linkedin.com/in/okmtyuta)
   - [CodeSandbox](https://codesandbox.io/u/okmtyuta)
   - [Personal Page](https://me.okmtyuta.jp)
