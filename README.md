@@ -5,7 +5,7 @@
 </p>
 
 ## Profile
-https://mirror.me.okmtyuta.jp
+https://blog.me.okmtyuta.jp
 
 ## Contact
 
