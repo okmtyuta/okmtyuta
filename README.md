@@ -5,7 +5,7 @@
 </p>
 
 ## Profile
-https://blog.me.okmtyuta.jp
+https://about.me.okmtyuta.jp
 
 ## Contact
 
