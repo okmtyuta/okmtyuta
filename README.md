@@ -5,8 +5,8 @@
 </p>
 
 ## Profile
-https://about.me.okmtyuta.jp
+https://about.me.yuta.app
 
 ## Contact
 
-Mail to okmtyuta@gmail.com
+Mail to mea@yuta.app
