@@ -9,4 +9,4 @@ https://about.me.yuta.app
 
 ## Contact
 
-Mail to mea@yuta.app
+Mail to me@yuta.app
