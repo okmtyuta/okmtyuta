@@ -7,6 +7,8 @@
 ## Profile
 https://about.me.yuta.app
 
-## Contact
+## Note
+https://note.yuta.app
 
+## Contact
 Mail to me@yuta.app
