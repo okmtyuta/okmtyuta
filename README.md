@@ -11,4 +11,4 @@ https://about.me.yuta.app
 https://note.yuta.app
 
 ## Contact
-Mail to me@yuta.app
+Mail to mail.okmtyuta@gmail.com
